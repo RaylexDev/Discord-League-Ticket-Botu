@@ -1,0 +1,14 @@
+{
+  "name": "golazo",
+  "version": "1.0.0",
+  "description": "Golazo - Discord Destek/Ticket Botu (Components V2)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
